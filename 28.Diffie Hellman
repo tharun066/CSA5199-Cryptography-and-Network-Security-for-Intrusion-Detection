@@ -15,7 +15,7 @@ int mod_exp(int base, int exp, int modulus)
  }
  return result;
 }
-nt main()
+int main()
 {
  
  int prime = 23; 
